@@ -8,8 +8,8 @@ determinada pasta e exibe quantos e quais arquivos possuem a palavra-chave.
 O prjeto preziza ser clonado:
 
 ```sh
-$ git clone https://github.com/angelobms/search-engine.git
-$ cd search-engine
+$ git clone https://github.com/angelobms/SearchEngine.git
+$ cd SearchEngine
 ```
 
 Após clonar o projeto, abra ele na IDE IntelliJ IDEA e faça o BUILD. Depois execute o seguinte comando para instalação:
