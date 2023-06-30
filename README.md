@@ -5,7 +5,7 @@ determinada pasta e exibe quantos e quais arquivos possuem a palavra-chave.
 
 ## Instalação
 
-O prjeto preziza ser clonado:
+O projeto precisa ser clonado:
 
 ```sh
 $ git clone https://github.com/angelobms/SearchEngine.git
