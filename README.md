@@ -1,7 +1,6 @@
 # SearchEngine
 
-Projeto criado como solução para o desafio proposto pela LuizaLabs. Busca por uma sentença em todos os arquivos em uma 
-determinada pasta e exibe quantos e quais arquivos possuem a palavra-chave. 
+Busca por uma sentença em todos os arquivos em uma determinada pasta e exibe quantos e quais arquivos possuem a palavra-chave. 
 
 ## Instalação
 
